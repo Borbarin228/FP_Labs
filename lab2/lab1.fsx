@@ -20,4 +20,4 @@ let main argv =
     printfn "Perimeter: %f" ((fun a b c -> a + b + c)list[0] list[1] list[2])
     printfn "Area: %f" (area list[0] list[1] list[2])
 
-main()
+main() 
